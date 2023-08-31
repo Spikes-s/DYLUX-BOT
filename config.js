@@ -2,15 +2,15 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-global.nomorbot = '254736958034' //Nomor Bot
+global.nomorbot = '254790499326' //Nomor Bot
 global.owner = [
-  ['254736958034', '🐝KHALID-TECH🐝', true],
-  ['923470027813'], '🌿xIRATOS CONTRIBUTORx🌿', true],
-  ['254768667910', '🐝STARBOY DONATOR🐝', true],
+  ['254790499326', 'SPIKES', true],
+  ['254790499326'], 'GHOST', true],
+  ['254790499326', '🐝SPIKES', true],
 ] //Numeros
 
-global.mods = ['254736958034'] 
-global.prems = ['254736958034', '254716216161', '923470027813']
+global.mods = ['254790499326'] 
+global.prems = ['254790499326', '254790499326', '254790499326']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -27,7 +27,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'DyLux┃ᴮᴼᵀ' 
-global.author = 'KHALID-tech' 
+global.author = 'SPIKES' 
 global.fgig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff\n' 
 global.dygp = 'https://github.com/Khalid-niccur/'
 global.fgsc = 'https://github.com/Khalid-niccur/DYLUX-BOT' 
